@@ -3,7 +3,6 @@
 ## About Me
 - 🔭 I’m currently working on AWS, JAVA, Python, Machine Learning.
 - 🌱 I’m learning Spring boot, kafka, Machine Learning, Artificial Intelligence.
-- 💬 Ask me about Java and Python.
 
 ## Connect with Me
 
